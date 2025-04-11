@@ -1,0 +1,1 @@
+Payment_buttons = 'sk_test_51RCeptRx3FP6Tzj6HswaeBzW1bKfk8oAMpvhS3BZRLLB60XhVkKDyFKxW4AezeB9aOlpo6icfOpcZGs7kYwSQPvo00jVbCCB2m'
